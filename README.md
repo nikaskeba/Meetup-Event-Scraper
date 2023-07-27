@@ -1,2 +1,2 @@
 # Meetup Event Scraper
- Save all group events into a csv to import into Google Calendar
+ Scrape meetup events from meetup groups to turn into one calendar.
