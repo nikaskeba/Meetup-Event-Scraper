@@ -1,0 +1,869 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DESCRIPTION:Come play games and imbibe with us! It is a very casual newbie-friendly group!
+DTEND:20230806T220000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230806T210000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:59c8289a-eab3-43f0-8f6a-9d119a665bde@59c8.org
+URL:https://meetup.com/inclusive-geekery/events/rqcstsyfclbjb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Our meeting place will be in Gamers Heaven\, plenty of sitting places and they have drinks and food if you like to get it ( it's optional).
+DTEND:20230901T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230901T010000Z
+SUMMARY:Catan 
+UID:e14da8e1-1d57-4a3e-ad79-7aae6e11ec45@e14d.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfclbpc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20230825T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230825T010000Z
+SUMMARY:Crafty Happy Hour
+UID:c3bc58fe-d1a0-4742-8d07-73a1921b3d33@c3bc.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfclbgc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After the run\, we'll head across the street to Fremont Brewing\, to hang out and socialize. They have craft beer and cider on tap\, as well as non-alcoholic options.
+DTEND:20230830T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230830T010000Z
+SUMMARY:Tuesday Night Trailhead
+UID:612e67d2-e78e-421e-8715-8b12dda0aeb1@612e.org
+URL:https://meetup.com/brooks-trailhead/events/pgszssyfclbmc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zur Beachtung: treffen in Aufust finden am 2en und 4en Dienstag statt.
+DTEND:20231108T030000Z
+LOCATION:Persepolis Grill
+DTSTART:20231108T020000Z
+SUMMARY:Stammtisch - Erster Dienstag
+UID:0ea8cc48-b98e-41cc-b5f9-5f3ea818eb92@0ea8.org
+URL:https://meetup.com/german98101/events/tsjbdtyfcpbkb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shop for handmade crafts and local art! There will also be food trucks and other vendors. This is always a super fun event :)
+DTEND:20230730T200000Z
+LOCATION:Warren G. Magnusson Park
+DTSTART:20230730T190000Z
+SUMMARY:Field Trip- Urban Craft Uprising
+UID:69b3cb25-66d4-4b7c-b617-db7291bdd6af@69b3.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/294597062/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20230802T030000Z
+LOCATION:Reuben's Brews - The Taproom
+DTSTART:20230802T020000Z
+SUMMARY:NW Seattle - Crafty Happy Hour
+UID:b81e22a2-361e-43f1-9581-2a7cbe6b1467@b81e.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/294786405/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:------------\nPlease note: in August we will meet on the 2nd and 4th Tuesdays.
+DTEND:20231220T030000Z
+LOCATION:Persepolis Grill
+DTSTART:20231220T020000Z
+SUMMARY:Stammtisch - Dritter Dienstag
+UID:ee8a18b3-ebf1-4c42-b5c7-0c327befa257@ee8a.org
+URL:https://meetup.com/german98101/events/rsjbdtyfcqbzb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Please rsvp and come on time.\nLooking forward to playing with you all...
+DTEND:20230825T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230825T010000Z
+SUMMARY:Catan 
+UID:94d8f059-96bf-4844-9e92-75639d5861b2@94d8.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfclbgc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pancake Paddle Special Edition -- Exploratory Skagit River Drift from Sedro Woolley to Mt. Vernon.
+DTEND:20230802T180000Z
+LOCATION:Edgewater Park
+DTSTART:20230802T170000Z
+SUMMARY:Exploratory Skagit River Drift from Sedro Woolley to Mt. Vernon
+UID:0047fed6-3bd7-4288-a0dd-c97a0ca45c12@0047.org
+URL:https://meetup.com/the-lake-union-pancake-paddle/events/295056258/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hello - This is a virtual meetup. I will be hosting and looking forward to speaking with you.
+DTEND:20230818T030000Z
+LOCATION:The Undrgrnd
+DTSTART:20230818T020000Z
+SUMMARY:(Virtual) Bellevue German Meetup
+UID:c7179acb-2510-413c-b1b7-69b30337aadc@c717.org
+URL:https://meetup.com/german-347/events/294736629/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:OR\, if you would like to meet in person\, check out our other meetup in Bellevue at Woods Coffee. Tom will be hosting.
+DTEND:20230922T030000Z
+LOCATION:25 Lakeshore Plaza
+DTSTART:20230922T020000Z
+SUMMARY:Dienstag Bier Meetup
+UID:5636a8ff-46a5-44fa-a1f3-9688402100a2@5636.org
+URL:https://meetup.com/german-347/events/rxljbqyfcmbhb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pick-up Soccer
+DTEND:20230926T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230926T010000Z
+SUMMARY:Stammtisch 
+UID:f4340e18-d53f-435d-87f0-284004967ddb@f434.org
+URL:https://meetup.com/seadeutsch/events/qtjrxsyfcmbhc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:https://www.mountbakerexperience.com/paddling-the-skagit-river/
+DTEND:20230807T033000Z
+LOCATION:Green Lake Park
+DTSTART:20230807T023000Z
+SUMMARY:Hiroshima Lantern Float Clean Up on Green Lake
+UID:85f94fa7-312b-4a58-b7d0-75afcf330cca@85f9.org
+URL:https://meetup.com/the-lake-union-pancake-paddle/events/294964957/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Every Sunday at Cafe Cosmos. Just like Monday nights at Shawn O'Donnell's\, it's open gaming. All experience levels and interests are welcome\, Cafe has organic coffee\, tea and dairy. Draft and bottled/canned beer\, sodas\, pastries and sweets\, sandwiches and salads. 21 and over. Hope to see you there!
+DTEND:20230803T010000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230803T000000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:90ba9480-45ee-41f6-957c-93fa1f9092a5@90ba.org
+URL:https://meetup.com/inclusive-geekery/events/pspcpsyfclbdb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20230908T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230908T010000Z
+SUMMARY:Crafty Happy Hour
+UID:eec1e90b-bb8d-4ce3-819d-090f781132dd@eec1.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfcmbkb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jimi Hendrix Park has a good size field with soccer goals and ample street and onsite parking.
+DTEND:20230903T230000Z
+LOCATION:Jimi Hendrix Park
+DTSTART:20230903T220000Z
+SUMMARY:Summer Soccer Series (Fussball spielen)
+UID:baa73e68-895f-488b-96e0-e1502b7e8a4f@baa7.org
+URL:https://meetup.com/seadeutsch/events/qglgftyfcmbfb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Everyone is welcome! I'll haul in a few favorites from my personal collection\; if you have something at home that's not hitting the table as often as you'd like\, bring it along! Or just show up and see what everyone else is playing.
+DTEND:20230728T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230728T010000Z
+SUMMARY:Board Game Night @ Optimism Brewing
+UID:a54d0fac-76d6-42a2-a8f1-a2acfd99a77c@a54d.org
+URL:https://meetup.com/seattle-board-games/events/294780690/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A free speaking event on the topics related to emerging technology's impact including AI\, Machine Learning\, Open Source Software\, Web3\, AR/VR and more.
+DTEND:20230801T010000Z
+LOCATION:PACCAR Hall
+DTSTART:20230801T000000Z
+SUMMARY:Research Speakers in AI\, Machine Learning\, Auditing\, Ethics
+UID:ccc9c869-74b7-4c3d-af1b-3fa8b2635cb2@ccc9.org
+URL:https://meetup.com/westcoast-ai-meetup/events/294735810/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Our meeting place will be in Gamers Heaven\, plenty of sitting places and they have drinks and food if you like to get it ( it's optional).
+DTEND:20230922T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230922T010000Z
+SUMMARY:Catan 
+UID:84018c17-0b7a-453a-8ecd-f6aa68dc005e@8401.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfcmbcc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:****REGISTRATION IS REQUIRED. Sign up here****
+DTEND:20230729T030000Z
+LOCATION:National Nordic Museum
+DTSTART:20230729T020000Z
+SUMMARY:FLÓÐ Silent Disco: Closing Event - Nordic Museum
+UID:cae0246b-5619-447a-9f49-5f91f06aa3f5@cae0.org
+URL:https://meetup.com/bal-art-third-thursday/events/294453827/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Optimism Brewing Company is located in Capitol Hill\, at the corner of Broadway and Union. Although the location is a brewery\, kids (and dogs!) are welcome. Outside food is permitted\, there are several eateries nearby\, and there's usually a food truck outside.
+DTEND:20230801T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230801T010000Z
+SUMMARY:Board Game Night @ Die Bierstube!
+UID:5dcbbffa-164a-4da1-931d-3bccfb60cfc4@5dcb.org
+URL:https://meetup.com/seattle-board-games/events/bhvndtyfckbpc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This time we'll be playingCatan
+DTEND:20230908T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230908T010000Z
+SUMMARY:Catan 
+UID:d7c473a0-4974-4c15-b4b7-eb2e78831494@d7c4.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfcmbkb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We play a wide range of modern board and card games as well as some classics. You could find Azul\, Between Two Cities\, The Resistance\, Dominion\, Wingspan\, 7 Wonders\, Terraforming Mars\, and many more.
+DTEND:20230815T023000Z
+LOCATION:Shawn O'Donnell's American Grill and Irish Pub
+DTSTART:20230815T013000Z
+SUMMARY:Board Games & Beer Geeks @ Shawn O'Donnell's!
+UID:58ff78b1-32ce-4817-9a12-dc201744dc21@58ff.org
+URL:https://meetup.com/inclusive-geekery/events/znpnwsyfclbsb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Venue Change for this event: This event is being held at Reuben's Brews in the Ballard Brewery District! A change from the typical capitol hill location. All are still welcome!
+DTEND:20230811T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230811T010000Z
+SUMMARY:Crafty Happy Hour
+UID:31097821-d343-40eb-874f-850fd7179815@3109.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfclbnb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Health and safety policies will be communicated with your class verification email. Classes are in-person at our location\, 2000 NW Market St\, Seattle WA[masked]
+DTEND:20230729T020000Z
+LOCATION:Push/Pull
+DTSTART:20230729T010000Z
+SUMMARY:Qu-Art: Queer Artists Meetup - Push/Pull
+UID:1f5c197a-a0eb-4df0-a520-6f18e9df5838@1f5c.org
+URL:https://meetup.com/bal-art-third-thursday/events/292557182/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join me this Tuesday August 1 at ( 5:00 PM ) for Pickleball after work at Talbot Hill Park in Renton\nI looked at the forecast and it should be sunny and 83 degrees\nThey have ( 3 ) actual Pickleball Courts\nNot some tennis courts with lines painted on them\nIf you come a little late\nThat's OK\nJust reserve and let's play
+DTEND:20230802T010000Z
+LOCATION:Talbot Hill Reservoir Park
+DTSTART:20230802T000000Z
+SUMMARY:Tuesday Pickleball
+UID:f227c3bf-3e7f-476d-a273-36d2d3711568@f227.org
+URL:https://meetup.com/seattle-pickleball/events/295042025/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zur Beachtung: treffen in Aufust finden am 2en und 4en Dienstag statt.
+DTEND:20230809T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20230809T010000Z
+SUMMARY:Stammtisch - Zweiter Dienstag
+UID:58362faf-5b75-44c2-a898-691eaad02365@5836.org
+URL:https://meetup.com/german98101/events/tsjbdtyfclbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Proof of vaccination still required for sitting in doors\, please be fully vaccinated and boosted if eligible.
+DTEND:20230801T023000Z
+LOCATION:Shawn O'Donnell's American Grill and Irish Pub
+DTSTART:20230801T013000Z
+SUMMARY:Board Games & Beer Geeks @ Shawn O'Donnell's!
+UID:b77eae50-3d77-4f91-992d-7f8683ad7760@b77e.org
+URL:https://meetup.com/inclusive-geekery/events/znpnwsyfckbpc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All German levels welcome.
+DTEND:20231004T030000Z
+LOCATION:The Undrgrnd
+DTSTART:20231004T020000Z
+SUMMARY:Kirkland Oktoberfest 
+UID:84245497-f0b0-4ea4-8375-56ea95f2b4bb@8424.org
+URL:https://meetup.com/german-347/events/292840423/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join me this Thursday August 3 at ( 5:00 PM ) for Pickleball after work at Talbot Hill Park in Renton\nI looked at the forecast and it should be partly cloudy and 85 degrees\nThey have ( 3 ) actual Pickleball Courts\nIf you come a little late\nThat's OK\nJust reserve and let's play
+DTEND:20230804T010000Z
+LOCATION:Talbot Hill Reservoir Park
+DTSTART:20230804T000000Z
+SUMMARY:Thursday Pickleball
+UID:175ec967-e62d-4507-85c4-1d5946ae9c76@175e.org
+URL:https://meetup.com/seattle-pickleball/events/295042011/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hot press or cold? Squirrel hair or synthetic? Tubes or pans? The world of professional watercolor tools can be a challenge. Get hands on experience\, tips\, advice and practice with Maxx. In this epic 4-day summer camp for adults\, you'll use Daniel Smith\, Beam\, Push/Pull\, and Gansai watercolors\, a variety of professional brushes\, masking fluid\, and different watercolor papers.
+DTEND:20230728T200000Z
+LOCATION:Push/Pull
+DTSTART:20230728T190000Z
+SUMMARY:Block Printing Workshop - Push/Pull
+UID:12e11a4a-1113-4687-9213-d6ebd091beb2@12e1.org
+URL:https://meetup.com/bal-art-third-thursday/events/292558943/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:All materials are provided. Students receive a 15% discount on art supply purchases after class. Students will also receive an extensive class kit to take home as part of the registration fee.
+DTEND:20230728T200000Z
+LOCATION:1766 NW Market St
+DTSTART:20230728T190000Z
+SUMMARY:Summer Friday Pop-Ups - Ballard Collective
+UID:9281fb24-6156-4cd8-9e12-887be2d95e18@9281.org
+URL:https://meetup.com/bal-art-third-thursday/events/cdtkftyfckblc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Board Game Geek page\nHow to Play (host will go over the rules on the night\, too)
+DTEND:20230804T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230804T010000Z
+SUMMARY:COSMIC FROG: World Eaters from Dimension Zero @ Optimism Brewing
+UID:e96db2f3-0efd-4440-9e2a-4a8fc8d7e122@e96d.org
+URL:https://meetup.com/seattle-board-games/events/294874758/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Wir treffen wieder zweimal im Monat\, um deutsch zu sprechen und Gemeinschaft zu genießen.
+DTEND:20230823T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20230823T010000Z
+SUMMARY:Stammtisch - Vierter Dienstag
+UID:25df7bfe-8c45-4529-8fdb-5c1e6c01f8c8@25df.org
+URL:https://meetup.com/german98101/events/rsjbdtyfclbtb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Have you taken this workshop before? Can't get enough? Here's yet another reason to come back: returning students get $5 off!
+DTEND:20230801T180000Z
+LOCATION:Push/Pull
+DTSTART:20230801T170000Z
+SUMMARY:DIY Art Supplies Summer Camp (for Grown Ups) - Push/Pull
+UID:b5da7bf7-c423-41b6-8fce-8be2d7209f37@b5da.org
+URL:https://meetup.com/bal-art-third-thursday/events/293886633/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:If you need to use the restroom or lockers to store your stuff during the run\, the Brooks Trailhead store has both inside. Keep in mind that the store closes at 7:00PM\, so be sure to keep an eye on the clock if you store anything inside.
+DTEND:20230818T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230818T010000Z
+SUMMARY:Thursday Night Trailhead
+UID:adb7e7d9-4ce4-4733-9341-980f8d98b3ae@adb7.org
+URL:https://meetup.com/brooks-trailhead/events/rvbwssyfclbwb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pick-up Soccer
+DTEND:20230806T230000Z
+LOCATION:Jimi Hendrix Park
+DTSTART:20230806T220000Z
+SUMMARY:Summer Soccer Series (Fussball spielen)
+UID:1038cdbb-e37f-47a5-b1fc-620cfeece813@1038.org
+URL:https://meetup.com/seadeutsch/events/qglgftyfclbjb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Being on time\, German fluency\, and ordering food are not mandatory.)
+DTEND:20231018T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20231018T010000Z
+SUMMARY:Stammtisch - Dritter Dienstag
+UID:f7ac933e-de09-4b07-a306-db352bbb5ce5@f7ac.org
+URL:https://meetup.com/german98101/events/rsjbdtyfcnbwb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We'll be in the tables at the south side of the restaurant.
+DTEND:20230817T010000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230817T000000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:8bef53c5-02cb-4434-a3ee-eebfccf5e5cd@8bef.org
+URL:https://meetup.com/inclusive-geekery/events/pspcpsyfclbvb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Each week we'll have three-mile and five-mile route options and a wide range of paces. Everyone is welcome from beginner runners to experienced marathoners! We'll have paper copy of the routes for anyone interested.
+DTEND:20230825T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230825T010000Z
+SUMMARY:Thursday Night Trailhead
+UID:d474515e-fe0b-47c4-bd2e-a4fd14a7906c@d474.org
+URL:https://meetup.com/brooks-trailhead/events/rvbwssyfclbgc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jimi Hendrix Park has a good size field with soccer goals and ample street and onsite parking.
+DTEND:20231003T020000Z
+LOCATION:Die Bierstube
+DTSTART:20231003T010000Z
+SUMMARY:Stammtisch 
+UID:b0b3199f-773f-4308-81f2-90fcc8192a83@b0b3.org
+URL:https://meetup.com/seadeutsch/events/qtjrxsyfcnbdb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20231020T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20231020T010000Z
+SUMMARY:Crafty Happy Hour
+UID:b6722c6a-d5b8-491d-b2a0-ac1872f3de9b@b672.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfcnbzb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Please bring a soccer ball if you've got one\, cleats or sturdy sneakers\, and shin-guards if you prefer (highly recommended)\, and a water bottle.
+DTEND:20230917T230000Z
+LOCATION:Jimi Hendrix Park
+DTSTART:20230917T220000Z
+SUMMARY:Summer Soccer Series (Fussball spielen)
+UID:68463dae-486b-4c36-8778-3abf7e070561@6846.org
+URL:https://meetup.com/seadeutsch/events/qglgftyfcmbwb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us at 6PM for the Tuesday Night Trailhead group run!
+DTEND:20230811T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230811T010000Z
+SUMMARY:Thursday Night Trailhead
+UID:d97dae94-257c-4846-b31f-955312ffabbd@d97d.org
+URL:https://meetup.com/brooks-trailhead/events/rvbwssyfclbnb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This will be the first time for me on the Skagit River. I've checked out the put in at Sedro Woolley and the take out at Mt. Vernon and they look okay. Online paddling reports indicate no issues on this part of the river.
+DTEND:20230806T170000Z
+LOCATION:Swedish Club
+DTSTART:20230806T160000Z
+SUMMARY:Pancake Paddle #84
+UID:7242880d-d904-4041-a10b-ac68fa6961ec@7242.org
+URL:https://meetup.com/the-lake-union-pancake-paddle/events/294586160/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This time we'll be playingCatan
+DTEND:20230929T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230929T010000Z
+SUMMARY:Catan 
+UID:f5283f5d-09a1-4b45-9243-7273e2132003@f528.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfcmblc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We're a bit on the smallish side\, any more than 20 might be crowded but definitely doable.
+DTEND:20230810T010000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230810T000000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:3331b5bb-716a-493a-89c9-a68651c9d7c5@3331.org
+URL:https://meetup.com/inclusive-geekery/events/pspcpsyfclbmb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Last Fridays\, 12pm-4pm
+DTEND:20230729T190000Z
+LOCATION:Push/Pull
+DTSTART:20230729T180000Z
+SUMMARY:DIY Screen Printing - Push/Pull
+UID:25200115-4e02-4891-9f5d-01c5e275d995@2520.org
+URL:https://meetup.com/bal-art-third-thursday/events/293996731/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:If you need to use the restroom or lockers to store your stuff during the run\, the Brooks Trailhead store has both inside. Keep in mind that the store closes at 7:00PM\, so be sure to grab your stuff before heading over to Fremont.
+DTEND:20230809T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230809T010000Z
+SUMMARY:Tuesday Night Trailhead
+UID:81b45b91-90a4-47f2-aa49-e681ed363e02@81b4.org
+URL:https://meetup.com/brooks-trailhead/events/pgszssyfclblb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This time we'll be playingCatan
+DTEND:20230728T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230728T010000Z
+SUMMARY:Catan 
+UID:7da4fc6a-1bc7-4bfe-9578-204970702035@7da4.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfckbkc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:------------\nPlease note: in August we will meet on the 2nd and 4th Tuesdays.
+DTEND:20230920T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20230920T010000Z
+SUMMARY:Stammtisch - Dritter Dienstag
+UID:548d82cd-14d2-4668-8954-2d4db46517c6@548d.org
+URL:https://meetup.com/german98101/events/rsjbdtyfcmbzb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20230922T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230922T010000Z
+SUMMARY:Crafty Happy Hour
+UID:7b61b8d2-f915-4158-b5d7-aa66f168da7c@7b61.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfcmbcc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Maxx FG is the Director at Push/Pull and has been making block prints for over a decade. You've probably seen some of her prints in the shop!
+DTEND:20230801T230000Z
+LOCATION:Push/Pull
+DTSTART:20230801T220000Z
+SUMMARY:Acrylic Painting Summer Camp (for Grown Ups!) - Push/Pull
+UID:261b2071-4332-47d9-89d7-097a2fa500a6@261b.org
+URL:https://meetup.com/bal-art-third-thursday/events/293865135/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We're all at different athletic abilities\, so be nice and have fun ⚽ Playing is at your own risk.
+DTEND:20230919T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230919T010000Z
+SUMMARY:Stammtisch 
+UID:d854c5a8-f919-44ac-a7b2-041783184037@d854.org
+URL:https://meetup.com/seadeutsch/events/qtjrxsyfcmbxb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:****REGISTRATION IS REQUIRED. Sign up here****
+DTEND:20230724T230000Z
+LOCATION:Push/Pull
+DTSTART:20230724T220000Z
+SUMMARY:Intro to Watercolors Camp (For Grown Ups!) - Push/Pull
+UID:20972265-1a63-4633-b4cf-e014f84609ff@2097.org
+URL:https://meetup.com/bal-art-third-thursday/events/294144496/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us weekly at 6PM for the Thursday Night Trailhead group run!
+DTEND:20230728T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230728T010000Z
+SUMMARY:Thursday Night Trailhead
+UID:9e46c553-adca-45a9-84a6-b47926b44f80@9e46.org
+URL:https://meetup.com/brooks-trailhead/events/rvbwssyfckbkc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Each week we'll have 6ish-mile and 3ish-mile route options and a range of paces. Everyone is welcome from beginner runners to experienced marathoners! We'll have paper copy of the routes for anyone interested.
+DTEND:20230816T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230816T010000Z
+SUMMARY:Tuesday Night Trailhead
+UID:0c2c2122-44e9-4593-8afb-a2c16807cefc@0c2c.org
+URL:https://meetup.com/brooks-trailhead/events/pgszssyfclbtb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Every other Sunday from June 25th to August 20th we'll have a game of pick-up soccer at the field near Jimi Hendrix Park in the Central District.
+DTEND:20231001T230000Z
+LOCATION:Jimi Hendrix Park
+DTSTART:20231001T220000Z
+SUMMARY:Summer Soccer Series (Fussball spielen)
+UID:d0e04580-76da-4040-ae02-4d53ca767b72@d0e0.org
+URL:https://meetup.com/seadeutsch/events/qglgftyfcnbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Repeating mask policy:
+DTEND:20230730T220000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230730T210000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:5b4b6500-8ca2-4482-acfd-21bf5d3da103@5b4b.org
+URL:https://meetup.com/inclusive-geekery/events/rqcstsyfckbnc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Just a heads-up: this session is intended for beginner-to-intermediate players\; the host has only played a half-dozen times or so and knows the game well enough to teach but is hardly a seasoned pro.)
+DTEND:20230802T020000Z
+LOCATION:Teddy's Tavern
+DTSTART:20230802T010000Z
+SUMMARY:Board Game Night @ Teddy's Tavern!
+UID:7b908d63-0963-40c0-8977-c1fd10f55708@7b90.org
+URL:https://meetup.com/seattle-board-games/events/tsmqbtyfclbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Winner of the 2016 Golden Geek Board Game of the Year Award\, 2016 Board Game Quest Awards Best Strategy/Euro Game\, and many other awards!
+DTEND:20230802T023000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230802T013000Z
+SUMMARY:Power Cube (Magic the Gathering) at Optimism
+UID:53a78735-183e-4655-b06f-fbb98df06ca7@53a7.org
+URL:https://meetup.com/seattle-board-games/events/tggldtyfclbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Is there a game you wish to learn? Do you wish to teach a game you love? Leave a comment on the meetup you're attending\, so we can make sure it happens!
+DTEND:20230815T020000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230815T010000Z
+SUMMARY:Think and Drink Trivia @ Cafe Cosmos
+UID:5cfb4c34-ca7b-4dc2-b735-5989bda3364f@5cfb.org
+URL:https://meetup.com/inclusive-geekery/events/xprqzsyfclbsb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join me this Thursday July 27 at ( 5:00 PM ) for Pickleball after work at Talbot Hill Park in Renton\nI looked at the forecast and it should be mostly sunny and 80 degrees\nThey have ( 3 ) actual Pickleball Courts\nIf you come a little late\nThat's OK\nJust reserve and let's play
+DTEND:20230728T010000Z
+LOCATION:Talbot Hill Reservoir Park
+DTSTART:20230728T000000Z
+SUMMARY:Thursday Pickleball
+UID:947a79b3-b3eb-4f0e-ad76-d0f5be9e2ccc@947a.org
+URL:https://meetup.com/seattle-pickleball/events/294919573/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We will meet at the NORTH END of Edgewater Park in Mt. Vernon. (the map pin is wrong. Turn RIGHT after you go over the bridge.) We will leave a shuttle vehicle there then drive to the put in point at River Front Park in Sedro Woolley. Free parking and first class restrooms at both locations.\n___________________________________________________\nABOUT THE LAKE UNION PANCAKE PADDLE
+DTEND:20230812T190000Z
+LOCATION:Rainbow Bridge
+DTSTART:20230812T180000Z
+SUMMARY:Hope and Goat Islands (Skagit Co.) Paddle & Campout
+UID:e0cdfa35-c250-4bd1-89ad-697a370f268d@e0cd.org
+URL:https://meetup.com/the-lake-union-pancake-paddle/events/294876764/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:It is a time of unrest in 1920s Europa. The ashes from the first great war still darken the snow. The capitalistic city-state known simply as “The Factory”\, which fueled the war with heavily armored mechs\, has closed its doors\, drawing the attention of several nearby countries.
+DTEND:20230801T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230801T010000Z
+SUMMARY:Dune: Imperium @ Die Bierstube!
+UID:c3ea4459-6f2c-4f0a-ac09-add6764e8dfd@c3ea.org
+URL:https://meetup.com/seattle-board-games/events/295064639/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join me this Sunday July 30 at ( 11:00 AM ) for Pickleball at Talbot Hill Park in Renton\nI looked at the forecast and it will be partly cloudy and 78 degrees\nThey have ( 3 ) actual Pickleball Courts\nNot some tennis courts with lines painted on them\nIf you come a little late\nThat's OK\nJust reserve and let's play
+DTEND:20230730T190000Z
+LOCATION:Talbot Hill Reservoir Park
+DTSTART:20230730T180000Z
+SUMMARY:Sunday Pickleball
+UID:8cac12f3-03cd-4efd-a0af-8d85d0d54011@8cac.org
+URL:https://meetup.com/seattle-pickleball/events/295042038/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We meet twice a month to speak German and enjoy some company.
+DTEND:20231004T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20231004T010000Z
+SUMMARY:Stammtisch - Erster Dienstag
+UID:bebdd906-4f53-46ef-b59a-571b5b6356e5@bebd.org
+URL:https://meetup.com/german98101/events/tsjbdtyfcnbfb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Please rsvp and come on time.\nLooking forward to playing with you all...
+DTEND:20230915T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230915T010000Z
+SUMMARY:Catan 
+UID:f946c9d9-8d6e-4d82-8749-0a832cceeaf1@f946.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfcmbsb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Please rsvp and come on time.\nLooking forward to playing with you all...
+DTEND:20230804T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230804T010000Z
+SUMMARY:Catan 
+UID:fb4ced91-3889-4c49-9eb2-aec8a12de1a8@fb4c.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfclbfb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20231103T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20231103T010000Z
+SUMMARY:Crafty Happy Hour
+UID:eeb8e1c9-1fb8-4bdc-92d8-99e22ffe7bf0@eeb8.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfcpbdb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Scythe is an engine-building game set in an alternate-history 1920s period. It is a time of farming and war\, broken hearts and rusted gears\, innovation and valor. In Scythe\, each player represents a character from one of five factions of Eastern Europe who are attempting to earn their fortune and claim their faction's stake in the land around the mysterious Factory. Players conquer territory\, enlist new recruits\, reap resources\, gain villagers\, build structures\, and activate monstrous mechs.
+DTEND:20230802T020000Z
+LOCATION:Teddy's Tavern
+DTSTART:20230802T010000Z
+SUMMARY:Dune: Imperium @ Teddy's Tavern!
+UID:3845de15-438e-4d10-83cf-a5f841966d35@3845.org
+URL:https://meetup.com/seattle-board-games/events/295064646/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Team sizes will be based on the number of people who show up and will be co-ed. Please bring a black or white shirt to determine whichever team you'd like to be on.
+DTEND:20230905T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230905T010000Z
+SUMMARY:Stammtisch 
+UID:df2009ff-5f51-4098-af28-1f95e7a1ed79@df20.org
+URL:https://meetup.com/seadeutsch/events/qtjrxsyfcmbgb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Pünktlichkeit\, Sprache Flüssigkeit\, und Essen bestellen sind nich nötig.)
+DTEND:20230906T020000Z
+LOCATION:Persepolis Grill
+DTSTART:20230906T010000Z
+SUMMARY:Stammtisch - Erster Dienstag
+UID:f216e9ba-b92f-451f-82e5-d7b0876bf51e@f216.org
+URL:https://meetup.com/german98101/events/tsjbdtyfcmbhb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:But I would like to travel it first before scheduling an all levels Pancake Paddle on this stretch\, later this summer. So if you are confident of your class I SUP & kayak skills then please consider joining me Wednesday\, Aug. 2 for this midweek exploratory 12 mile down river drift on the shortest big-volume river in the world. We'll stop for a couple of snacks and lunch along the way.
+DTEND:20230810T180000Z
+LOCATION:Hobuck Beach
+DTSTART:20230810T170000Z
+SUMMARY:Kayak & SUP Surf Camp with Rob Casey
+UID:fd4bbba3-5d69-47ff-8d4e-d27273f8ce3a@fd4b.org
+URL:https://meetup.com/the-lake-union-pancake-paddle/events/290972955/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After the run\, we'll head across the street to Fremont Brewing\, to hang out and socialize. They have craft beer and cider on tap\, as well as non-alcoholic options.
+DTEND:20230804T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230804T010000Z
+SUMMARY:Thursday Night Trailhead
+UID:2b5758ad-c78b-4856-90d7-af760d904512@2b57.org
+URL:https://meetup.com/brooks-trailhead/events/rvbwssyfclbfb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:***No games on July 16th\, as our Bike the Burke event will be on that Saturday.
+DTEND:20230912T020000Z
+LOCATION:Die Bierstube
+DTSTART:20230912T010000Z
+SUMMARY:Stammtisch 
+UID:dbecc51e-cbc6-4bad-a766-eb2d9dbc18f9@dbec.org
+URL:https://meetup.com/seadeutsch/events/qtjrxsyfcmbpb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2 -7 players plus a second table with room for 5 if needed\n[masked] minutes expected play time (including teaching)\; we've reserved a table for the evening with open gaming until 10:00 PM and the venue is open until 11:00.
+DTEND:20230804T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230804T010000Z
+SUMMARY:Board Game Night @ Optimism Brewing
+UID:eb1c08fe-36bc-4085-aaf9-055c4c5ed2a0@eb1c.org
+URL:https://meetup.com/seattle-board-games/events/294944444/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:German speaking. All levels welcome.
+DTEND:20230802T030000Z
+LOCATION:Online event
+DTSTART:20230802T020000Z
+SUMMARY:Dienstag Bier Meetup
+UID:135052df-45dc-42c7-845e-b0828a5d6b49@1350.org
+URL:https://meetup.com/german-347/events/rxljbqyfclbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Wir treffen wieder zweimal im Monat\, um deutsch zu sprechen und Gemeinschaft zu genießen.
+DTEND:20231122T030000Z
+LOCATION:Persepolis Grill
+DTSTART:20231122T020000Z
+SUMMARY:Stammtisch - Dritter Dienstag
+UID:15d7eb7e-d1d1-41c1-bfd6-cf10d616dd56@15d7.org
+URL:https://meetup.com/german98101/events/rsjbdtyfcpbcc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Meeting ID:[masked] Passcode:[masked]
+DTEND:20230906T030000Z
+LOCATION:The Undrgrnd
+DTSTART:20230906T020000Z
+SUMMARY:3rd Thursday Get-together
+UID:da62fb9b-bbd4-4e2d-b965-5249642568c6@da62.org
+URL:https://meetup.com/german-347/events/bmlmhryfclbwb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Safety/health requirements will be communicated by the instructor prior to class. If you would like more information on Push/Pull's accessibility or have accessibility needs\, please email [masked]
+DTEND:20230803T020000Z
+LOCATION:Push/Pull
+DTSTART:20230803T010000Z
+SUMMARY:Stitch and Bitch - Push/Pull
+UID:22f00f6b-1bef-4e12-b637-95a5a456b4bf@22f0.org
+URL:https://meetup.com/bal-art-third-thursday/events/293722005/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:See you at one of our two 3rd Thursday events!
+DTEND:20230923T230000Z
+LOCATION:The Undrgrnd
+DTSTART:20230923T220000Z
+SUMMARY:3rd Thursday Get-together
+UID:419887d5-9b3c-4201-871e-5021dd23cc77@4198.org
+URL:https://meetup.com/german-347/events/bmlmhryfcmbcc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Is there a game you wish to learn? Do you wish to teach a game you love? Leave a comment on the meetup you're attending\, so we can try to make it happen!
+DTEND:20230808T023000Z
+LOCATION:Shawn O'Donnell's American Grill and Irish Pub
+DTSTART:20230808T013000Z
+SUMMARY:Board Games & Beer Geeks @ Shawn O'Donnell's!
+UID:2829b68c-0f2c-4961-8625-18d24aa73266@2829.org
+URL:https://meetup.com/inclusive-geekery/events/znpnwsyfclbkb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Every other Sunday from June 25th to August 20th we'll have a game of pick-up soccer at the field near Jimi Hendrix Park in the Central District.
+DTEND:20230820T230000Z
+LOCATION:Jimi Hendrix Park
+DTSTART:20230820T220000Z
+SUMMARY:Summer Soccer Series (Fussball spielen)
+UID:a7d45c79-d252-4e40-93b2-86d3ab10aed9@a7d4.org
+URL:https://meetup.com/seadeutsch/events/qglgftyfclbbc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Each week we'll have three-mile and five-mile route options and a wide range of paces. Everyone is welcome from beginner runners to experienced marathoners! We'll have paper copy of the routes for anyone interested.
+DTEND:20230802T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230802T010000Z
+SUMMARY:Tuesday Night Trailhead
+UID:70b6db71-5c33-4a8a-9e04-45c7d1718058@70b6.org
+URL:https://meetup.com/brooks-trailhead/events/pgszssyfclbcb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Come for the whole evening\, or drop in for a quick game and then call it a night.
+DTEND:20230728T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230728T010000Z
+SUMMARY:SCYTHE @ Optimism Brewing
+UID:7d129543-43fa-4e1f-994d-5b3aae6f7bec@7d12.org
+URL:https://meetup.com/seattle-board-games/events/294818864/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This event is running concurrently with SCYTHE at the same location\; if there's an extra seat at that game it will be offered up to attendees of the general gaming meetup but if you want to be guaranteed a spot\, sign up for that event too!
+DTEND:20230729T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230729T010000Z
+SUMMARY:Board Games and Free Birthday Cake @ Optimism
+UID:a62f3b02-886c-419e-ba49-0e5b01566498@a62f.org
+URL:https://meetup.com/seattle-board-games/events/295029516/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Carve and print your own linocut print\, for yourself or as a gift! Learn about positive and negative space and experiment with your block print in color or classic black & white. Learn how the Push/Pull crew designs and prints many of the sketchbooks\, patches\, and more! All materials are provided.
+DTEND:20230731T190000Z
+LOCATION:Ballard (Hiram M. Chittenden) Locks
+DTSTART:20230731T180000Z
+SUMMARY:Botanical Sketching at the Locks with Maxx
+UID:7a190709-95cc-48e8-aa5b-268ffc59335f@7a19.org
+URL:https://meetup.com/bal-art-third-thursday/events/lzqxftyfckbpc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Want to explore the board/card game hobby? Want to learn more about craft beer? Want to meet people happy to teach you board games? Come play games and drink beer with us! It is a very casual newbie-friendly group!
+DTEND:20230813T220000Z
+LOCATION:Cafe Cosmos
+DTSTART:20230813T210000Z
+SUMMARY:Cafe Cosmos Boardgame Geeks!
+UID:96a9a5ac-db8d-4c72-8759-14e16936f811@96a9.org
+URL:https://meetup.com/inclusive-geekery/events/rqcstsyfclbrb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20230728T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20230728T010000Z
+SUMMARY:Crafty Happy Hour
+UID:067412da-c661-4e51-82e1-5876e6f533d7@0674.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfckbkc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This time we'll be playingCatan
+DTEND:20230818T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230818T010000Z
+SUMMARY:Catan 
+UID:30e20caf-d5b7-4759-81ed-92c2b057ce00@30e2.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfclbwb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:(Pünktlichkeit\, Sprache Flüssigkeit\, und Essen bestellen sind nich nötig.)
+DTEND:20231206T030000Z
+LOCATION:Persepolis Grill
+DTSTART:20231206T020000Z
+SUMMARY:Stammtisch - Erster Dienstag
+UID:2e234d5b-c3f5-458e-945f-786bb1410a23@2e23.org
+URL:https://meetup.com/german98101/events/tsjbdtyfcqbhb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us after work to relax and meet fellow crafters! BYO project to work on while we sip beer and chat 🧶🍻
+DTEND:20231006T020000Z
+LOCATION:Optimism Brewing Company
+DTSTART:20231006T010000Z
+SUMMARY:Crafty Happy Hour
+UID:12a751f7-37b7-47a1-9b60-ae76f47a1148@12a7.org
+URL:https://meetup.com/seattle-area-crafts-and-draughts/events/wtgsbtyfcnbhb/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Join us weekly at 6PM for the Thursday Night Trailhead group run!
+DTEND:20230823T020000Z
+LOCATION:Brooks Trailhead
+DTSTART:20230823T010000Z
+SUMMARY:Tuesday Night Trailhead
+UID:3c1633a1-0feb-4385-9e8c-3c6e5b684b7c@3c16.org
+URL:https://meetup.com/brooks-trailhead/events/pgszssyfclbdc/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Our meeting place will be in Gamers Heaven\, plenty of sitting places and they have drinks and food if you like to get it ( it's optional).
+DTEND:20230811T020000Z
+LOCATION:Gamers Heaven PNW
+DTSTART:20230811T010000Z
+SUMMARY:Catan 
+UID:dc5ad639-24c2-4c9e-9111-8a69efaa53f6@dc5a.org
+URL:https://meetup.com/seattle-catan-club/events/kvdcbtyfclbnb/
+END:VEVENT
+END:VCALENDAR
